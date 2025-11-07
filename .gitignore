@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Entity Framework / SQL / datos locales
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Configuración temporal
+*.temp
+*.tmp
+
+# Archivos de usuario
+*.userosscache
+*.sln.docstates
+
+# Publicaciones locales
+publish/
